@@ -50,5 +50,7 @@ dependencies {
     implementation 'com.ihongqiqu:android-utils:1.0.2'
     //显示空layout并且显示网络延时的预加载动画
     implementation 'com.github.ybq:Android-SpinKit:1.0.1'
+    //拍照和图片选择的图片库
+    implementation 'com.zhihu.android:matisse:0.5.1-beta1'
 
 }

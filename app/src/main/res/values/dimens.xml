@@ -1,0 +1,4 @@
+<resources>
+    <!--图片选择器-->
+    <dimen name="grid_expected_size">120dp</dimen>
+</resources>

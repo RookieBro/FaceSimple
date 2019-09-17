@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FaceSimple</string>
+    <!--图片选择和拍照-->
+    <string name="file_provider_authorities">com.dxyt.photo.fileprovider</string>
 </resources>
