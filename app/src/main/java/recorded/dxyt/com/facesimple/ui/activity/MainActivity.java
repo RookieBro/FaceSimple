@@ -25,9 +25,10 @@ import static recorded.dxyt.com.facesimple.App.createApiService;
 
 public class MainActivity extends BaseActivity {
     public String TAG="sfsadf";
-
-    private final int GET_PERMISSION_REQUEST = 100; //权限申请自定义码
+    //权限申请自定义码
+    private final int GET_PERMISSION_REQUEST = 100;
     private boolean granted = false;
+
     @Override
     public void initData() {
 

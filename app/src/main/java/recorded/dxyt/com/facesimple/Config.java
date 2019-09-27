@@ -5,5 +5,4 @@ public class Config {
     public static final String MAIN_URL="http://192.168.0.66:8080";
 
     /*** 图片选择器标识**/
-    public static final int REQUEST_CODE_CHOOSE = 23;
 }
